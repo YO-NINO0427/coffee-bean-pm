@@ -1,0 +1,22 @@
+.example-paragraph{
+    color:aquamarine;
+}
+#example-paragraph1{
+    color:blueviolet;
+}
+#example-paragraph2{
+    color:olivedrab;
+}
+#example-paragraph3{
+    color: navajowhite;
+}
+.example-div{
+    background-color: beige;
+    padding: 10px;
+    border:1px solid red;
+}
+#example-box{
+    border:1px solid blue;
+    padding: 10px;
+   
+}
